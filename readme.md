@@ -8,11 +8,7 @@
 
 ###
 
-<img align="left" height="130" src="https://media1.tenor.com/m/vigU9y67gQMAAAAC/cat-cafe.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -28,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/babis2612" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -39,8 +35,10 @@
 
 ###
 
-<br clear="both">
+<img align="center" height="150" src="https://media1.tenor.com/m/vigU9y67gQMAAAAC/cat-cafe.gif"  />
 
-<img src="https://raw.githubusercontent.com/barbarapoffo/barbarapoffo/output/snake.svg" alt="Snake animation" />
+###
+
+<br clear="both">
 
 ###
