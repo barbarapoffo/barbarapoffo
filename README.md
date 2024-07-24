@@ -55,11 +55,10 @@
 
 ###
 
-<img align="left" height="130" src="https://media1.tenor.com/m/vigU9y67gQMAAAAC/cat-cafe.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/barbarapoffo/barbarapoffo/output/snake.svg" alt="Snake animation" />
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img align="left" height="130" src="https://media1.tenor.com/m/vigU9y67gQMAAAAC/cat-cafe.gif"  />
+  <img src="https://raw.githubusercontent.com/barbarapoffo/barbarapoffo/output/snake.svg" height="130" alt="Snake animation" />
+</div>
 
 ###
 
@@ -68,3 +67,4 @@
 </div>
 
 ###
+
