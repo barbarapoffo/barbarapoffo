@@ -59,7 +59,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/barbarapoffo/barbarapoffo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/barbarapoffo/barbarapoffo/main/output/snake.svg" alt="Snake animation" />
 
 ###
 
